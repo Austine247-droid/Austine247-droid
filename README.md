@@ -71,5 +71,11 @@
 
 <hr>
 
-## 🐍 My Certifications....More still coming
+## 💼💼 My Certifications....More still coming
+### ALX Software Engineering Graduate/ALX AI starter Kit
+
+<img src="https://github.com/Ambitiousdude/Ambitiousdude/blob/main/113-alx-ai-starter-kit-certificate-augustine-ugberaese%20(1).png" alt="Banner of a developer sitting in front of a desk">
+<img src="https://github.com/Ambitiousdude/Ambitiousdude/blob/main/28-introduction-to-swe-0623-certificate-augustine-ugberaese%20(1).png" alt="Banner of a developer sitting in front of a desk">
+
+
 
