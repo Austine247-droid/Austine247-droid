@@ -6,7 +6,7 @@
 </div>
 
 <a href="https://www.instagram.com/thepiyushmalhotra/">
-  <img height="700" width= "1000"src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGgxcHZ4aGQwNG03MnhodGk4MW5vdnlob3c1MmRqeWZ3eWl4YXN2MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"/>
+  <img height="500" width= "1000"src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMGgxcHZ4aGQwNG03MnhodGk4MW5vdnlob3c1MmRqeWZ3eWl4YXN2MSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"/>
 </a>
 
 <h1 align="center">
