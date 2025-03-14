@@ -52,8 +52,10 @@
 
 <div align=center>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=Ambitiousdude&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Augustine's GitHub Stats" />
+</div>
 
-  <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=Ambitiousdude&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Augustine's Most Used Languages" />
+<div align=center>
+ <img width=325 src="https://github-readme-stats.vercel.app/api/top-langs?username=Ambitiousdude&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Augustine's Most Used Languages" />
 </div>
 
 
