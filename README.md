@@ -12,8 +12,7 @@
 ## A young, dynamic, result-oriented, and experienced **front-end engineer** interested in solving complex problems with modern frameworks like React, TypeScript, and React Native.
 
 
-- 🌱 I’m currently learning **[Typescript and Next.js](https://www.alxafrica.com/programme/prodev-frontend/)**
-- 💬 Ask me about **React, React-native...or anything [here](https://github.com/{Ambitiousdude}/{Ambitiousdude}/issues)**
+- 💬 Ask me about **Software Development** [here](ugberaeseoa@gmail.com)**
 
 <br>
 
